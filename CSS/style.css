@@ -1,0 +1,30 @@
+body {
+    background-color: blue;
+    color: yellow;
+    text-align: center;
+    font-style: italic;
+}
+.wa{
+    border: 3px yellow solid;
+    margin: 10px;
+    border-radius: 110ch;
+    padding: 2px;
+    background-color: black;
+    font-size: 50px;}
+.do {
+    border: 3px yellow dotted;
+    border-radius: 60px;
+    text-align: center;
+    padding: 4px;
+    background-color: black;
+    font-style: inherit;
+}
+.pai {
+    text-align: unset;
+    float: left;
+    border: 5px solid black;
+    margin: 10;
+    padding: 4%;
+    border-style: dotted;
+    background-color: grey;
+    }
